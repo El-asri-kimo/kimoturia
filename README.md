@@ -1,2 +1,0 @@
-# kimoturia
-iptv
