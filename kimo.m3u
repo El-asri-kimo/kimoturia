@@ -1,4 +1,241 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="news 720",Iraqia News HD
+http://stream.shabakaty.com:6001/news/ch1/ch1_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="news 720",Iraqia Ent HD
+http://stream.shabakaty.com:6001/enter/ch1/ch1_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="news 720",AL SUMARIA HD
+http://stream.shabakaty.com:6001/news/ch2/ch2_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="news 720",Iraq 24 HD
+http://stream.shabakaty.com:6001/news/ch3/ch3_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="news 720",AL SHARQIYA HD
+http://stream.shabakaty.com:6001/news/ch4/ch4_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="news 720",AL RASHEED TV HD
+http://stream.shabakaty.com:6001/news/ch10/ch10_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="news 720",Dijlah TV
+http://stream.shabakaty.com:6001/news/ch5/ch5_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="news 720",Hona Baghdad
+http://stream.shabakaty.com:6001/news/ch6/ch6_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="news 720",UTV Iraq HD
+http://stream.shabakaty.com:6001/news/ch7/ch7_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="news 720",Al forat
+http://stream.shabakaty.com:6001/news/ch8/ch8_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="news 720",Alhurra Iraq HD
+http://stream.shabakaty.com:6001/news/ch9/ch9_720.m3u8
+#EXTINF:0 tvg-id="AlArabiya.nws" group-title="news 720",Al Arabiya
+http://stream.shabakaty.com:6001/news/ch11/ch11_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="news 720",Al-Arabiya Alhadath
+http://stream.shabakaty.com:6001/news/ch12/ch12_720.m3u8
+#EXTINF:0 tvg-id="AlJazeera.nws" group-title="news 720",Al Jazeera HD
+http://stream.shabakaty.com:6001/news/ch13/ch13_720.m3u8
+#EXTINF:0 tvg-id="BBCArabic.net" group-title="news 720",BBC Arabic
+http://stream.shabakaty.com:6001/news/ch14/ch14_720.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Entertainment 720",MBC IRAQ HD
+http://stream.shabakaty.com:6001/enter/ch2/ch2_720.m3u8
+#EXTINF:0 tvg-id="MBCDrama.net" group-title="Entertainment 720",MBC Drama HD
+http://stream.shabakaty.com:6001/series/ch8/ch8_720.m3u8
+#EXTINF:0 tvg-id="MBC1.net" group-title="Entertainment 720",MBC 1
+http://stream.shabakaty.com:6001/enter/ch15/ch15_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Entertainment 720",MBC 2
+http://stream.shabakaty.com:6001/movies/ch18/ch18_720.m3u8
+#EXTINF:0 tvg-id="MBC4.net" group-title="Entertainment 720",MBC 4
+http://stream.shabakaty.com:6001/enter/ch16/ch16_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment 720",MBC Masr
+http://stream.shabakaty.com:6001/enter/ch17/ch17_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Entertainment 720",MBC Bollywood
+http://stream.shabakaty.com:6001/movies/ch27/ch27_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Entertainment 720",MBC Bollywood
+http://stream.shabakaty.com:6001/movies/ch20/ch20_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Entertainment 720",MBC Action
+http://stream.shabakaty.com:6001/movies/ch19/ch19_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Entertainment 720",Aflam 1
+http://stream.shabakaty.com:6001/movies/ch22/ch22_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Entertainment 720",Aflam 2
+http://stream.shabakaty.com:6001/movies/ch23/ch23_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment 720",Rotana Drama
+http://stream.shabakaty.com:6001/series/ch9/ch9_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Entertainment 720",Rotana Classic
+http://stream.shabakaty.com:6001/movies/ch17/ch17_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment 720",Rotana Khalijia
+http://stream.shabakaty.com:6001/enter/ch20/ch20_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Entertainment 720",Rotana Cinema KSA
+http://stream.shabakaty.com:6001/movies/ch16/ch16_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Entertainment 720",Rotana Cinema EGY
+http://stream.shabakaty.com:6001/movies/ch15/ch15_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment 720",Alhayat Muslsalat
+http://stream.shabakaty.com:6001/series/ch11/ch11_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment 720",AD DRAMA
+http://stream.shabakaty.com:6001/series/ch12/ch12_720.m3u8
+#EXTINF:0 tvg-id="AbuDhabiTV.uk" group-title="Entertainment 720",Abu Dhabi TV HD
+http://stream.shabakaty.com:6001/enter/ch25/ch25_720.m3u8
+#EXTINF:0 tvg-id="DubaiTVHD.net" group-title="Entertainment 720",Dubai TV
+http://stream.shabakaty.com:6001/enter/ch24/ch24_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Entertainment 720",Dubai One HD
+http://stream.shabakaty.com:6001/movies/ch21/ch21_720.m3u8
+#EXTINF:0 tvg-id="OSNYahala.net" group-title="Entertainment 720",OSN YaHala
+http://stream.shabakaty.com:6001/series/ch6/ch6_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment 720",OSN Yahala  Oula
+http://stream.shabakaty.com:6001/series/ch7/ch7_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Entertainment 720",OSN YH Cinema
+http://stream.shabakaty.com:6001/movies/ch13/ch13_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Entertainment 720",Cinema 1
+http://stream.shabakaty.com:6001/movies/ch14/ch14_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment 720",Series +2 HD
+http://stream.shabakaty.com:6001/series/ch13/ch13_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment 720",FOX Rewayat
+http://stream.shabakaty.com:6001/series/ch5/ch5_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment 720",beIN DRAMA HD
+http://stream.shabakaty.com:6001/series/ch3/ch3_720.m3u8
+#EXTINF:0 tvg-id="CBSDrama.uk" group-title="Entertainment 720",CBC Drama
+http://stream.shabakaty.com:6001/series/ch10/ch10_720.m3u8
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="Entertainment 720",MTV HD
+http://stream.shabakaty.com:6001/enter/ch19/ch19_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment 720",Al-Nahar One
+http://stream.shabakaty.com:6001/enter/ch23/ch23_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment 720",LBC SAT
+http://stream.shabakaty.com:6001/enter/ch18/ch18_720.m3u8
+#EXTINF:0 tvg-id="beINGourmet.qa" group-title="Entertainment 720",beIN GOURMET
+http://stream.shabakaty.com:6001/enter/ch10/ch10_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Entertainment 720",beIN movies HD 1
+http://stream.shabakaty.com:6001/movies/ch1/ch1_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Entertainment 720",beIN movies HD 2
+http://stream.shabakaty.com:6001/movies/ch2/ch2_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Entertainment 720",beIN movies HD 3
+http://stream.shabakaty.com:6001/movies/ch3/ch3_720.m3u8
+#EXTINF:0 tvg-id="beINSeries1.qa" group-title="Entertainment 720",beIN SERIES 1
+http://stream.shabakaty.com:6001/series/ch1/ch1_720.m3u8
+#EXTINF:0 tvg-id="beINSeries2.qa" group-title="Entertainment 720",beIN SERIES 2
+http://stream.shabakaty.com:6001/series/ch2/ch2_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Entertainment 720",OSN Movies Action
+http://stream.shabakaty.com:6001/movies/ch9/ch9_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Entertainment 720",OSN Movies
+http://stream.shabakaty.com:6001/movies/ch8/ch8_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment 720",OSN Series First
+http://stream.shabakaty.com:6001/series/ch4/ch4_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Entertainment 720",OSN Movies First
+http://stream.shabakaty.com:6001/movies/ch10/ch10_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Entertainment 720",Enigma
+http://stream.shabakaty.com:6001/movies/ch11/ch11_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Entertainment 720",FOX MOVIES
+http://stream.shabakaty.com:6001/movies/ch5/ch5_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Entertainment 720",Star Movies HD
+http://stream.shabakaty.com:6001/movies/ch12/ch12_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Entertainment 720",FOX ACTION MOVIES
+http://stream.shabakaty.com:6001/movies/ch6/ch6_720.m3u8
+#EXTINF:0 tvg-id="fox-life" group-title="Entertainment 720",FOX life
+http://stream.shabakaty.com:6001/enter/ch12/ch12_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Entertainment 720",CTF movies 1
+http://stream.shabakaty.com:6001/movies/ch25/ch25_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Entertainment 720",CTF family
+http://stream.shabakaty.com:6001/movies/ch28/ch28_720.m3u8
+#EXTINF:0 tvg-id="cbc" group-title="Entertainment 720",CBC
+http://stream.shabakaty.com:6001/enter/ch22/ch22_720.m3u8
+#EXTINF:0 tvg-id="BBCEarth.pl" group-title="Entertainment 720",BBC Earth
+http://stream.shabakaty.com:6001/enter/ch30/ch30_720.m3u8
+#EXTINF:0 tvg-id="discov_rus-hd" group-title="Entertainment 720",Discovery HD
+http://stream.shabakaty.com:6001/enter/ch5/ch5_720.m3u8
+#EXTINF:0 tvg-id="travel" group-title="Entertainment 720",Travel Channel
+http://stream.shabakaty.com:6001/enter/ch11/ch11_720.m3u8
+#EXTINF:0 tvg-id="FoodNetwork.uk" group-title="Entertainment 720",food
+http://stream.shabakaty.com:6001/enter/ch9/ch9_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment 720",Discovery IDX HD
+http://stream.shabakaty.com:6001/enter/ch7/ch7_720.m3u8
+#EXTINF:0 tvg-id="discov_sci" group-title="Entertainment 720",Discovery Science HD
+http://stream.shabakaty.com:6001/enter/ch6/ch6_720.m3u8
+#EXTINF:0 tvg-id="E.uk" group-title="Entertainment 720",E! HD
+http://stream.shabakaty.com:6001/enter/ch14/ch14_720.m3u8
+#EXTINF:0 tvg-id="HistoryHD.ru" group-title="Entertainment 720",History HD
+http://stream.shabakaty.com:6001/enter/ch13/ch13_720.m3u8
+#EXTINF:0 tvg-id="history2-rus" group-title="Entertainment 720",H2 HD
+http://stream.shabakaty.com:6001/enter/ch29/ch29_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment 720",fatafeat HD
+http://stream.shabakaty.com:6001/enter/ch8/ch8_720.m3u8
+#EXTINF:0 tvg-id="NatGeoAD.net" group-title="Entertainment 720",National Geographic Abu Dhabi
+http://stream.shabakaty.com:6001/enter/ch26/ch26_720.m3u8
+#EXTINF:0 tvg-id="natgeowild" group-title="Entertainment 720",NATIONAL GEOGRAPHIC WILD
+http://stream.shabakaty.com:6001/enter/ch4/ch4_720.m3u8
+#EXTINF:0 tvg-id="natgeo" group-title="Entertainment 720",NATIONAL GEOGRAPHIC
+http://stream.shabakaty.com:6001/enter/ch3/ch3_720.m3u8
+#EXTINF:0 tvg-id="natgeo" group-title="Entertainment 720",NATIONAL GEOGRAPHIC
+http://stream.shabakaty.com:6001/enter/ch28/ch28_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment 720",Rotana Clip
+http://stream.shabakaty.com:6001/enter/ch21/ch21_720.m3u8
+
+#EXTINF:0 tvg-id="Kids.br" group-title="kids 720",OSN kids
+http://stream.shabakaty.com:6001/kids/ch11/ch11_720.m3u8
+#EXTINF:0 tvg-id="Kids.br" group-title="kids 720",beJunior
+http://stream.shabakaty.com:6001/kids/ch4/ch4_720.m3u8
+#EXTINF:0 tvg-id="Kids.br" group-title="kids 720",Nickelodeon HD
+http://stream.shabakaty.com:6001/kids/ch10/ch10_720.m3u8
+#EXTINF:0 tvg-id="Kids.br" group-title="kids 720",Nickelodeon HD
+http://stream.shabakaty.com:6001/kids/ch6/ch6_720.m3u8
+#EXTINF:0 tvg-id="Kids.br" group-title="kids 720",Disney Junior HD
+http://stream.shabakaty.com:6001/kids/ch12/ch12_720.m3u8
+#EXTINF:0 tvg-id="Kids.br" group-title="kids 720",BOOMERANG HD
+http://stream.shabakaty.com:6001/kids/ch3/ch3_720.m3u8
+#EXTINF:0 tvg-id="Kids.br" group-title="kids 720",baraem
+http://stream.shabakaty.com:6001/kids/ch1/ch1_720.m3u8
+#EXTINF:0 tvg-id="Kids.br" group-title="kids 720",DreamWorks
+http://stream.shabakaty.com:6001/kids/ch5/ch5_720.m3u8
+#EXTINF:0 tvg-id="Kids.br" group-title="kids 720",MBC 3
+http://stream.shabakaty.com:6001/kids/ch7/ch7_720.m3u8
+#EXTINF:0 tvg-id="Kids.br" group-title="kids 720",Jeem HD
+http://stream.shabakaty.com:6001/kids/ch8/ch8_720.m3u8
+#EXTINF:0 tvg-id="Kids.br" group-title="kids 720",SPACETOON ARABIC
+http://stream.shabakaty.com:6001/kids/ch9/ch9_720.m3u8
+#EXTINF:0 tvg-id="Kids.br" group-title="kids 720",Baby TV
+http://stream.shabakaty.com:6001/kids/ch2/ch2_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="kids 720",beIN movies family
+http://stream.shabakaty.com:6001/movies/ch4/ch4_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="kids 720",FOX CRIME
+http://stream.shabakaty.com:6001/movies/ch7/ch7_720.m3u8
+
+#EXTINF:0 tvg-id="sport2_rus" group-title="Sport 720",Iraqia Sport HD
+http://stream.shabakaty.com:6001/sport/ch4/ch4_720.m3u8
+#EXTINF:0 tvg-id="sport2_rus" group-title="Sport 720",Shabab Sport
+http://stream.shabakaty.com:6001/sport/ch3/ch3_720.m3u8
+#EXTINF:0 tvg-id="sport2_rus" group-title="Sport 720",beIN SPORTS 1 PREMIUM
+http://stream.shabakaty.com:6001/sport/ch1/ch1_720.m3u8
+#EXTINF:0 tvg-id="sport2_rus" group-title="Sport 720",beIN SPORTS 2 PREMIUM
+http://stream.shabakaty.com:6001/sport/ch2/ch2_720.m3u8
+#EXTINF:0 tvg-id="sport2_rus" group-title="Sport 720",beIN SPORTS 3 PREMIUM
+http://stream.shabakaty.com:6001/sport/ch5/ch5_720.m3u8
+#EXTINF:0 tvg-id="sport2_rus" group-title="Sport 720",beIN SPORTS MAX 1
+http://stream.shabakaty.com:6001/sport/ch14/ch14_720.m3u8
+#EXTINF:0 tvg-id="sport2_rus" group-title="Sport 720",beIN SPORTS MAX 2
+http://stream.shabakaty.com:6001/sport/ch15/ch15_720.m3u8
+#EXTINF:0 tvg-id="sport2_rus" group-title="Sport 720",beiN SPORT 1
+http://stream.shabakaty.com:6001/sport/ch6/ch6_720.m3u8
+#EXTINF:0 tvg-id="sport2_rus" group-title="Sport 720",beiN SPORT 2
+http://stream.shabakaty.com:6001/sport/ch7/ch7_720.m3u8
+#EXTINF:0 tvg-id="sport2_rus" group-title="Sport 720",beiN SPORT 3
+http://stream.shabakaty.com:6001/sport/ch8/ch8_720.m3u8
+#EXTINF:0 tvg-id="sport2_rus" group-title="Sport 720",beiN SPORT 4
+http://stream.shabakaty.com:6001/sport/ch9/ch9_720.m3u8
+#EXTINF:0 tvg-id="sport2_rus" group-title="Sport 720",beiN SPORT 5
+http://stream.shabakaty.com:6001/sport/ch10/ch10_720.m3u8
+#EXTINF:0 tvg-id="sport2_rus" group-title="Sport 720",beiN SPORT 6
+http://stream.shabakaty.com:6001/sport/ch11/ch11_720.m3u8
+#EXTINF:0 tvg-id="sport2_rus" group-title="Sport 720",beiN SPORT 7
+http://stream.shabakaty.com:6001/sport/ch12/ch12_720.m3u8
+#EXTINF:0 tvg-id="sport2_rus" group-title="Sport 720",beIN SPORTS NBA
+http://stream.shabakaty.com:6001/sport/ch13/ch13_720.m3u8
+#EXTINF:0 tvg-id="sport2_rus" group-title="Sport 720",beIN SPORTS NEWS
+http://stream.shabakaty.com:6001/sport/ch17/ch17_720.m3u8
+#EXTINF:0 tvg-id="sport2_rus" group-title="Sport 720",Abu Dhabi Sports 1
+http://stream.shabakaty.com:6001/sport/ch18/ch18_720.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Test 720",Test
+http://stream.shabakaty.com:6001/sport/ch16/ch16_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Test 720",Test
+http://stream.shabakaty.com:6001/movies/ch24/ch24_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Test 720",Test
+http://stream.shabakaty.com:6001/sport/ch19/ch19_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Test 720",Test
+http://stream.shabakaty.com:6001/enter/ch27/ch27_720.m3u8
+
+
+**************** OSN ****************
 
 #EXTINF:-1,OSN | Cinema 1
 http://protv.top:8000/live/88107922460136017/1593574628/42123.ts
