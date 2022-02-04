@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Bein Sports Premium 1
+http://185.209.15.184:8080/live/1234/12345678/31529.ts
 #EXTINF:0 tvg-id="ext" group-title="news 720",Iraqia News HD
 http://stream.shabakaty.com:6001/news/ch1/ch1_720.m3u8
 #EXTINF:0 tvg-id="ext" group-title="news 720",Iraqia Ent HD
