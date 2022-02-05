@@ -1,4 +1,19 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",SA: SSC Sports FHD 7
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/244000
+#EXTINF:0 tvg-id="ext" group-title="Channels",SA: SSC Sports FHD 6
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243999
+#EXTINF:0 tvg-id="ext" group-title="Channels",SA: SSC Sports FHD 5
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243998
+#EXTINF:0 tvg-id="ext" group-title="Channels",SA: SSC Sports FHD 4
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243997
+#EXTINF:0 tvg-id="ext" group-title="Channels",SA: SSC Sports FHD 3
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243996
+#EXTINF:0 tvg-id="ext" group-title="Channels",SA: SSC Sports FHD 2
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243995
+#EXTINF:0 tvg-id="ext" group-title="Channels",SA: SSC Sports FHD 1
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243994
+
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",FR: AMAZON PRIME 10 FHD (LIVE EVENTS ONLY)
 http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243271
