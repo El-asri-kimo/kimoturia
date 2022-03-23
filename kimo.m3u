@@ -1,4 +1,171 @@
 #EXTM3U
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT EXTRA 1 HD
+http://stariptv.org:8080/basma2022/123456/15721
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT EXTRA 2 HD
+http://stariptv.org:8080/basma2022/123456/15722
+#EXTINF:0 tvg-id="sport1_hd" group-title="Channels",SPORT 1 HD
+http://stariptv.org:8080/basma2022/123456/15560
+#EXTINF:0 tvg-id="SkySportArena.it" group-title="Channels",SPORT 2 HD
+http://stariptv.org:8080/basma2022/123456/15559
+#EXTINF:0 tvg-id="SkySportFootball.it" group-title="Channels",SPORT 3 HD
+http://stariptv.org:8080/basma2022/123456/15558
+#EXTINF:0 tvg-id="SkySport4.de" group-title="Channels",SPORT 4 HD
+http://stariptv.org:8080/basma2022/123456/15557
+#EXTINF:0 tvg-id="Sport5HD.il" group-title="Channels",SPORT 5 HD
+http://stariptv.org:8080/basma2022/123456/15556
+#EXTINF:0 tvg-id="SkySport6.de" group-title="Channels",SPORT 6 HD
+http://stariptv.org:8080/basma2022/123456/15555
+#EXTINF:0 tvg-id="SkySport7.de" group-title="Channels",SPORT 7 HD
+http://stariptv.org:8080/basma2022/123456/15720
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT 1 EN HD
+http://stariptv.org:8080/basma2022/123456/112461
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT 2 EN HD
+http://stariptv.org:8080/basma2022/123456/112462
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT 3 EN HD
+http://stariptv.org:8080/basma2022/123456/112463
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT 1 FR HD
+http://stariptv.org:8080/basma2022/123456/112464
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT 2 FR HD
+http://stariptv.org:8080/basma2022/123456/112465
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT 3 FR HD
+http://stariptv.org:8080/basma2022/123456/112466
+#EXTINF:0 tvg-id="SkySportNewsHD.de" group-title="Channels",SPORT News HD
+http://stariptv.org:8080/basma2022/123456/22185
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT SPORT HD
+http://stariptv.org:8080/basma2022/123456/22186
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT 1 PREMIUM HQ
+http://stariptv.org:8080/basma2022/123456/2762
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT 2 PREMIUM HQ
+http://stariptv.org:8080/basma2022/123456/2763
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT 3 PREMIUM HQ
+http://stariptv.org:8080/basma2022/123456/2766
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT 1 XTRA HQ
+http://stariptv.org:8080/basma2022/123456/132027
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT 2 XTRA HQ
+http://stariptv.org:8080/basma2022/123456/132028
+#EXTINF:0 tvg-id="sport1" group-title="Channels",SPORT 1 HQ
+http://stariptv.org:8080/basma2022/123456/2755
+#EXTINF:0 tvg-id="sport2" group-title="Channels",SPORT 2 HQ
+http://stariptv.org:8080/basma2022/123456/2756
+#EXTINF:0 tvg-id="SkySportFootball.it" group-title="Channels",SPORT 3 HQ
+http://stariptv.org:8080/basma2022/123456/2757
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT 4 HQ
+http://stariptv.org:8080/basma2022/123456/2758
+#EXTINF:0 tvg-id="Sport5.cz" group-title="Channels",SPORT 5 HQ
+http://stariptv.org:8080/basma2022/123456/2759
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT 6 HQ
+http://stariptv.org:8080/basma2022/123456/2760
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT 7 HQ
+http://stariptv.org:8080/basma2022/123456/2761
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT 1 PREMIUM LQ
+http://stariptv.org:8080/basma2022/123456/35374
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT 2 PREMIUM LQ
+http://stariptv.org:8080/basma2022/123456/35375
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT 3 PREMIUM LQ
+http://stariptv.org:8080/basma2022/123456/35366
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT 1 LQ
+http://stariptv.org:8080/basma2022/123456/35367
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT 2 LQ
+http://stariptv.org:8080/basma2022/123456/35368
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT 3 LQ
+http://stariptv.org:8080/basma2022/123456/35369
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT 4 LQ
+http://stariptv.org:8080/basma2022/123456/35370
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT 5 LQ
+http://stariptv.org:8080/basma2022/123456/35371
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT 6 LQ
+http://stariptv.org:8080/basma2022/123456/35372
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT 7 LQ
+http://stariptv.org:8080/basma2022/123456/35373
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT 1 PREMIUM FHD
+http://stariptv.org:8080/basma2022/123456/141563
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT 2 PREMIUM FHD
+http://stariptv.org:8080/basma2022/123456/141564
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT 3 PREMIUM FHD
+http://stariptv.org:8080/basma2022/123456/141565
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT Sports HD1 FHD
+http://stariptv.org:8080/basma2022/123456/141566
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT Sports HD2 FHD
+http://stariptv.org:8080/basma2022/123456/141567
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT Sports HD3 FHD
+http://stariptv.org:8080/basma2022/123456/141568
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT Sports HD4 FHD
+http://stariptv.org:8080/basma2022/123456/141569
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT Sports HD5 FHD
+http://stariptv.org:8080/basma2022/123456/141570
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT Sports HD6 FHD
+http://stariptv.org:8080/basma2022/123456/141571
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT Sports HD7 FHD
+http://stariptv.org:8080/basma2022/123456/141572
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sports 1 HD
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFBUVYBPpkIWiABm0iSDPfHA
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sports 10 HD
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFLl4osHXroLcpSWu0XN5b7E
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sports 12 English HD
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFNESSoXE7RnRCXc2gJxy7xU
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sports 2 HD
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFPwP852aJqWMumvrL-8olhg
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sports 3 HD
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFNNuPTb4jtzr8HmACXlv_iQ
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sports 4 HD
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFB4Bi8W6r3RLxOVZQb4w01Q
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sports 5 HD
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFUFv38W5eF4aD3p5z4snCo
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sports 6 HD
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFO9x_aWkhGNVhYJDopsW3k
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sports 7 HD
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFJDnU2O_ZtaT4Rf1sqZe8Bc
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sports 8 HD
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFOPn1i-qu4HDGMz4QW8QO6M
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sports 9 HD
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFJmGw4_Xp0lkXz3qBwAAT8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sports 11 HD
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFB0LSpoNR81R3zFzwY_FI7Y
+
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTEXTRA 1 HD
+http://stariptv.org:8080/wael2021/123456/15721
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTEXTRA 2 HD
+http://stariptv.org:8080/wael2021/123456/15722
+#EXTINF:0 tvg-id="sport1_hd" group-title="Channels",SPORT1 HD
+http://stariptv.org:8080/wael2021/123456/15560
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT2 HD
+http://stariptv.org:8080/wael2021/123456/15559
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT3 HD
+http://stariptv.org:8080/wael2021/123456/15558
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT4 HD
+http://stariptv.org:8080/wael2021/123456/15557
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT5 HD
+http://stariptv.org:8080/wael2021/123456/15556
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT6 HD
+http://stariptv.org:8080/wael2021/123456/15555
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT7 HD
+http://stariptv.org:8080/wael2021/123456/15720
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT1 EN HD
+http://stariptv.org:8080/wael2021/123456/112461
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT2 EN HD
+http://stariptv.org:8080/wael2021/123456/112462
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT3 EN HD
+http://stariptv.org:8080/wael2021/123456/112463
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT1 FR HD
+http://stariptv.org:8080/wael2021/123456/112464
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT2 FR HD
+http://stariptv.org:8080/wael2021/123456/112465
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT3 FR HD
+http://stariptv.org:8080/wael2021/123456/112466
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTNews HD
+http://stariptv.org:8080/wael2021/123456/22185
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTSPORT HD
+http://stariptv.org:8080/wael2021/123456/22186
+
+##############################
+#############################
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",AR: OSN MOVIES DISNEY HD
 http://38.143.137.105:8080/Pebbles/Pebbles/393708
 #EXTINF:0 tvg-id="ext" group-title="Channels",AR: OSN ART AFLAM 1 HD
